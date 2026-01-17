@@ -18,6 +18,7 @@ If you use this code, please cite
 - [x] Support three types of label embeeding: CcGAN's ILI, Sinusoidal, and Gaussian Fourier.
 - [x] Support mixed precision training based on Accelerate. 
 - [x] Support Exponential Moving Average (EMA). Not compatible with self-attention in SAGAN and BigGAN!
+- [x] Support Muilti-GPU training (refer to https://github.com/NUIST-GenAI-Lab/CcGAN-AVAR_DDP).
 
 --------------------------------------------------------
 ## Software Requirements
